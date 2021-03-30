@@ -27,8 +27,5 @@ module.exports = {
 	},
 };
 
-
-
-
-
 ```
+## github  git@github.com:iloveMasterCAM/dg-json-loader.git
