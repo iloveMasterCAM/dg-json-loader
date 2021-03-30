@@ -1,0 +1,14 @@
+{
+  "name": "dg-json-loader",
+  "version": "1.0.5",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-pinyin": "^0.2.3"
+  }
+}
